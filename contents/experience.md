@@ -1,5 +1,5 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **高安全、高比能、锂金属电池电解质的材料设计原理与应用**  
+**2020.09 ~ 至今**  
 
 Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
 

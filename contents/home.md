@@ -1,20 +1,22 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+出生年月：1998.03 $~~~~~~~~~$ 预计毕业年份：2026  
+政治面貌：中共党员 $~~~~~~~$ 籍贯：山东 淄博
+#### 邮箱  
+<code>2011326@tongji.edu.cn</code>  
+<code>17866628671@163.com</code>
+#### 手机号  
+17866628671
+#### 教育经历  
+**中国海洋大学**, 985/211 学士 (2016.09 ~ 2020.06)  
+• GPA: 3.45/4.0 (top 10%)
+材料科学与工程学院 高分子材料与工程
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**同济大学**, 985/211 直博研究生 (2020.09 ~ 至今)  
+• GPA: 4.45/5.0 (top 10%)  
+化学科学与工程学院 化学
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+#### 研究经历  
+高安全、高比能、锂金属电池电解质的材料设计原理与应用 （博士期间自主研究课题）  
+空气稳定、实用化锂空气电池的材料设计原理（博士期间主要参与课题）
